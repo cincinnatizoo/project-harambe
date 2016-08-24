@@ -1,0 +1,19 @@
+PODS:
+  - CBGPromise (0.3.1)
+  - Nimble (4.1.0)
+  - Quick (0.9.3)
+  - Swinject (1.1.2)
+
+DEPENDENCIES:
+  - CBGPromise
+  - Nimble
+  - Quick
+  - Swinject
+
+SPEC CHECKSUMS:
+  CBGPromise: 9f3be6ae2e3fce9c42be1fe39eac881e5958fa34
+  Nimble: 97a0a4cae5124c117115634b2d055d8c97d0af19
+  Quick: 13a2a2b19a5d8e3ed4fd0c36ee46597fd77ebf71
+  Swinject: 3debc5ac926dcd1be00947265a9db7a5f31b272a
+
+COCOAPODS: 0.38.2
